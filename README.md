@@ -9,16 +9,13 @@
 
 ### 👨‍💻 About Me
 
-<p>
-I am a passionate Full-Stack Developer and Software Engineer based in Saudi Arabia 🇸🇦, with expertise in modern web technologies and a strong background in cybersecurity and data analysis.
+<p align="center">
+🧠 I’m a <strong>Full-Stack Web Developer</strong> and <strong>Software Engineer</strong> based in Saudi Arabia 🇸🇦<br/>
+🌐 Skilled in <strong>React</strong>, <strong>Node.js</strong>, <strong>TypeScript</strong>, and <strong>Python</strong><br/>
+🔐 Experienced in <strong>Cybersecurity</strong> and <strong>Data Analysis</strong><br/>
+🚀 Currently building AI-powered platforms to simplify academic research<br/>
+🎯 Always exploring new tools, frameworks, and technologies
 </p>
-
-<ul>
-<li>🧠 Expert in <strong>React</strong>, <strong>Node.js</strong>, <strong>TypeScript</strong>, and <strong>Python</strong></li>
-<li>🔐 Skilled in Cybersecurity and Data Analysis</li>
-<li>🚀 Building AI-powered platforms for simplifying academic research</li>
-<li>🎯 Always learning new tools and frameworks</li>
-</ul>
 
 ---
 
@@ -32,14 +29,14 @@ I am a passionate Full-Stack Developer and Software Engineer based in Saudi Arab
 
 ### 🧾 Certifications
 
-<ul>
-<li>✅ Google Cybersecurity Professional Certificate</li>
-<li>✅ eJPTv2 – Junior Penetration Tester</li>
-<li>✅ CCNA – Cisco Certified Network Associate</li>
-<li>✅ Security Software Certificate</li>
-<li>✅ ICDL – International Computer Driving License</li>
-<li>✅ IT Specialist Professional</li>
-</ul>
+<p align="center">
+✅ Google Cybersecurity Professional Certificate &nbsp;&nbsp;&nbsp;  
+✅ eJPTv2 – Junior Penetration Tester &nbsp;&nbsp;&nbsp;  
+✅ CCNA – Cisco Certified Network Associate &nbsp;&nbsp;&nbsp;  
+✅ Security Software Certificate &nbsp;&nbsp;&nbsp;  
+✅ ICDL – International Computer Driving License &nbsp;&nbsp;&nbsp;  
+✅ IT Specialist Professional
+</p>
 
 ---
 
@@ -58,7 +55,7 @@ I am a passionate Full-Stack Developer and Software Engineer based in Saudi Arab
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talalrashidi&show_icons=true&theme=radical" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=talalrashidi&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" width="48%" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=talalrashidi&theme=radical" alt="GitHub streak" width="48%" />
 </p>
@@ -68,10 +65,10 @@ I am a passionate Full-Stack Developer and Software Engineer based in Saudi Arab
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/talal-alrashedi-3a2127273/" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
+  <a href="https://www.linkedin.com/in/talal-alrashedi-3a2127273/" target="_blank" rel="noopener noreferrer" style="margin-right:20px;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" />
   </a>
-  <a href="mailto:TalalAlrashedi24@hotmail.com" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
+  <a href="mailto:TalalAlrashedi24@hotmail.com" target="_blank" rel="noopener noreferrer" style="margin-right:20px;">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" />
   </a>
   <a href="https://x.com/eng_t21" target="_blank" rel="noopener noreferrer">
